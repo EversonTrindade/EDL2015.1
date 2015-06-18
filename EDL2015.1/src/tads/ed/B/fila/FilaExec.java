@@ -4,7 +4,7 @@ public class FilaExec {
 
 	public static void main(String[] args) throws FilaException {
 
-		FilaImpl FI = new FilaImpl(5);
+		FilaImpl FI = new FilaImpl(4);
 		System.out.println(FI.isEmpty());
 		//System.out.println(FI.size());
 		//System.out.println(FI.front());
