@@ -24,9 +24,20 @@ public class DequeImpl implements Deque {
 		return deque[first];
 	}
 
+//	public Object getLast() throws DequeException {
+//		Object temp = null;
+//		for(Object i : deque ){
+//			if(i == null){
+//				 i2 = (Integer) i;
+//				temp = deque[i2];
+//			}
+//		}
+//		return temp;
+//	}
 	public Object getLast() throws DequeException {
-		return deque[last];
+		return null;
 	}
+	
 
 	public void insertFirst(Object o) throws DequeException {
 		if(size() == (size-1))
@@ -77,6 +88,7 @@ public class DequeImpl implements Deque {
 	public int last() {
 		return last;
 	}
+
 	
 	
 	
