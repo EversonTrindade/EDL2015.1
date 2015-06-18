@@ -8,7 +8,11 @@ public class ListaLigadaExec {
 		lista.insertElem(2);
 		lista.insertElem(22);
 		lista.insertElem(222);
-		lista.insertElem(2222);
+		lista.showElement();
+		lista.removeElem();
+		lista.showElement();
+		System.out.println("Get Size:" + lista.getSize());
+		lista.insertElemAfter(3333);
 		lista.showElement();
 	}
 
