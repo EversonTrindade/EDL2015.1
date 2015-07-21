@@ -1,0 +1,29 @@
+						
+						Estrutura de Dados Lineares
+
+Tipos Abstratos de Dados
+
+Vetor
+Pilha - Stack (OK)
+Fila - Queue (OK)
+Deque (BUG)
+Lista Simplesmente Encadeada
+Listas Duplamente Encadeada
+Fila/Lista de Prioridade
+
+Dicionário
+Tabela Hash
+
+Heap
+Árvore Genérica
+Árvore Binária
+SkipList
+Métodos de Ordenação
+Algoritmos de Ordenação
+
+
+						Estrutura de Dados Não-Lineares
+
+Árvore Binária de Pesquisa
+Arvores AVL
+Arvores Rubro-Negras
